@@ -1,0 +1,1 @@
+# ToolkitLW - Sin dependencias externas (solo stdlib Python 3.6+)
